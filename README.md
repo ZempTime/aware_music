@@ -11,7 +11,7 @@
 cd code/aware_overtone
 lein repl
 
-use 'overtone.live)
+(use 'overtone.live)
 
 #now you're good to go, for ex, try out this command:
 
