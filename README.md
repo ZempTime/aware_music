@@ -17,7 +17,7 @@ git pull
 # open up terminal in alfred
 # in terminal, type:
 
-cd code/aware_overtone
+cd ~/code/aware_music/aware_overtone
 lein repl
 
 (use 'overtone.live)
