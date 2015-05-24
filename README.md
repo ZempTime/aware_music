@@ -4,6 +4,15 @@
 
 ## Setup instructions for Joe
 
+### Updating your Project
+
+```ruby
+cd code/aware_music
+git pull
+```
+
+### Starting Overtone:
+
 ```ruby 
 # open up terminal in alfred
 # in terminal, type:
